@@ -1,4 +1,5 @@
-// correct method
+// Convert from a RGB color representation to Hex color representation
+
 function rgb(r, g, b) {
     const convert = function(val) {
         if(val < 0) {
